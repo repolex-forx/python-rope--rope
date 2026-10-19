@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-rope/rope/commit/22f5e50151c76f8cd9718e264eb44e692ca82cda",
       "git:hexsha": "22f5e50151c76f8cd9718e264eb44e692ca82cda",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-rope/rope/commit/e68f6f92da2fffd87fb9e43816fe861cd0739f39",
