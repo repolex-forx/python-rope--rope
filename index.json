@@ -1,0 +1,11 @@
+{
+  "org": "python-rope",
+  "repo": "rope",
+  "versions": [
+    {
+      "commit": "22f5e50151c76f8cd9718e264eb44e692ca82cda",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:28:43.792104+00:00"
+    }
+  ]
+}
